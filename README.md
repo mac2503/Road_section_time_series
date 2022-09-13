@@ -16,13 +16,14 @@
 
 ## Model Used
 
-- Light Gradient Boosting Machine model - regression model
+- Light Gradient Boosting Machine - regression model
 - Gradient Boosting: decision trees for regression/classification
 - Boosting: came out of the idea of whether a weak learner can be modified to become better
 
 ## Metric Used
 
 - RMSE: Root Mean Square Error
+
   ![](images/RMSE1.jpg)
 
 ## Result
